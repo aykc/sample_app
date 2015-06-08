@@ -24,6 +24,7 @@
 
 # Ignore other files
 database.yml
+database_sqlite3.yml
 doc/
 *.swp
 *~
