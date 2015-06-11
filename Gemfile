@@ -20,6 +20,7 @@ end
 
 gem 'sass-rails', '5.0.3'
 gem 'bootstrap-sass', '3.3.4.1'
+gem 'bcrypt', '3.1.10'
 gem 'uglifier', '2.7.1'
 gem 'coffee-rails', '4.1.0'
 gem 'jquery-rails', '4.0.3'
