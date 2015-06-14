@@ -16,10 +16,12 @@ group :test do
   gem 'selenium-webdriver', '2.45.0'
   gem 'capybara', '2.4.4'
   gem 'libnotify', '0.9.1'
+  gem 'factory_girl_rails', '4.5.0'
 end
 
 gem 'sass-rails', '5.0.3'
-gem 'bootstrap-sass', '3.3.4.1'
+# gem 'bootstrap-sass', '3.3.4.1'
+gem 'bootstrap-sass', '2.3.2.0'
 gem 'bcrypt', '3.1.10'
 gem 'uglifier', '2.7.1'
 gem 'coffee-rails', '4.1.0'
