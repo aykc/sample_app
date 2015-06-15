@@ -17,6 +17,8 @@ group :test do
   gem 'capybara', '2.4.4'
   gem 'libnotify', '0.9.1'
   gem 'factory_girl_rails', '4.5.0'
+  gem 'cucumber-rails', '1.4.2', :require => false
+  gem 'database_cleaner', github: 'bmabey/database_cleaner'
 end
 
 gem 'sass-rails', '5.0.3'
